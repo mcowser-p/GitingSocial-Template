@@ -48,7 +48,7 @@
     "microsoft/vscode",
     "rust-lang/rust",
     "python/cpython",
-    "github/docs"
+    { "user": "defunkt", "note": "github employee #1" }
   ],
   "links": {
     "website": ""
